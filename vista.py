@@ -4,7 +4,7 @@ import tkinter as tk
 class Vista:
     def __init__(self, root):
         self.root = root
-        self.root.title("Gestor de Tareas ✨")
+        self.root.title("Gestor de Tareas ")
 
         self.root.geometry("350x400")
         self.root.config(bg="#f5f5f5")
